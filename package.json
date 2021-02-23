@@ -1,4 +1,5 @@
 {
+  "homepage": "https://Anuwatchaturon.github.io/react-web",
   "name": "paper-kit-react",
   "version": "1.2.0",
   "private": true,
@@ -24,7 +25,10 @@
     "install:clean": "rm -rf node_modules/ && rm -rf package-lock.json && npm install && npm start",
     "compile-sass": "node-sass src/assets/scss/paper-kit.scss src/assets/css/paper-kit.css",
     "minify-sass": "node-sass src/assets/scss/paper-kit.scss src/assets/css/paper-kit.min.css --output-style compressed",
-    "map-sass": "node-sass src/assets/scss/paper-kit.scss src/assets/css/paper-kit.css --source-map true"
+    "map-sass": "node-sass src/assets/scss/paper-kit.scss src/assets/css/paper-kit.css --source-map true",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -45,6 +49,7 @@
     "typescript": "3.9.5"
   },
   "devDependencies": {
+    "gh-pages": "^3.1.0",
     "gulp": "4.0.2",
     "gulp-append-prepend": "1.0.8"
   }
