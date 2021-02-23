@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/react-web/static/css/main.86033e3f.chunk.css",
+    "main.js": "/react-web/static/js/main.0b3998ca.chunk.js",
+    "main.js.map": "/react-web/static/js/main.0b3998ca.chunk.js.map",
+    "runtime-main.js": "/react-web/static/js/runtime-main.b5c3bfe7.js",
+    "runtime-main.js.map": "/react-web/static/js/runtime-main.b5c3bfe7.js.map",
+    "static/js/2.2b13a32b.chunk.js": "/react-web/static/js/2.2b13a32b.chunk.js",
+    "static/js/2.2b13a32b.chunk.js.map": "/react-web/static/js/2.2b13a32b.chunk.js.map",
+    "index.html": "/react-web/index.html",
+    "precache-manifest.7f0d45f3eb1f2c9f40553a7e09dc40b0.js": "/react-web/precache-manifest.7f0d45f3eb1f2c9f40553a7e09dc40b0.js",
+    "service-worker.js": "/react-web/service-worker.js",
+    "static/css/main.86033e3f.chunk.css.map": "/react-web/static/css/main.86033e3f.chunk.css.map",
+    "static/js/2.2b13a32b.chunk.js.LICENSE.txt": "/react-web/static/js/2.2b13a32b.chunk.js.LICENSE.txt",
+    "static/js/main.0b3998ca.chunk.js.LICENSE.txt": "/react-web/static/js/main.0b3998ca.chunk.js.LICENSE.txt",
+    "static/media/antoine-barres.jpg": "/react-web/static/media/antoine-barres.dfbf459c.jpg",
+    "static/media/clem-onojeghuo-3.jpg": "/react-web/static/media/clem-onojeghuo-3.ae11d928.jpg",
+    "static/media/clouds.png": "/react-web/static/media/clouds.61c4e000.png",
+    "static/media/daniel-olahh.jpg": "/react-web/static/media/daniel-olahh.facbbdb7.jpg",
+    "static/media/erik-lucatero-2.jpg": "/react-web/static/media/erik-lucatero-2.2051e0e8.jpg",
+    "static/media/federico-beccari.jpg": "/react-web/static/media/federico-beccari.1331ba97.jpg",
+    "static/media/fog-low.png": "/react-web/static/media/fog-low.7812184c.png",
+    "static/media/ilya-yakover.jpg": "/react-web/static/media/ilya-yakover.efe05368.jpg",
+    "static/media/joe-gardner-2.jpg": "/react-web/static/media/joe-gardner-2.76ff47ae.jpg",
+    "static/media/joshua-stannard.jpg": "/react-web/static/media/joshua-stannard.8a26aabc.jpg",
+    "static/media/kaci-baum-2.jpg": "/react-web/static/media/kaci-baum-2.e06d84cb.jpg",
+    "static/media/landing-page.png": "/react-web/static/media/landing-page.d65b6316.png",
+    "static/media/login-image.jpg": "/react-web/static/media/login-image.be9fa468.jpg",
+    "static/media/me.jpg": "/react-web/static/media/me.aa712d01.jpg",
+    "static/media/paper-kit.scss?v=1.2.0": "/react-web/static/media/nucleo-icons.f32ed5ad.eot",
+    "static/media/profile-page.png": "/react-web/static/media/profile-page.ed812899.png",
+    "static/media/soroush-karimi.jpg": "/react-web/static/media/soroush-karimi.29df8117.jpg",
+    "static/media/uriel-soberanes.jpg": "/react-web/static/media/uriel-soberanes.fe3a7838.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5c3bfe7.js",
+    "static/js/2.2b13a32b.chunk.js",
+    "static/css/main.86033e3f.chunk.css",
+    "static/js/main.0b3998ca.chunk.js"
+  ]
+}
